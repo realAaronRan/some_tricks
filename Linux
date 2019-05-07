@@ -1,0 +1,2 @@
+## to swap caps lock and ctrl in ubuntu 16.04
+setxkbmap -option ctrl:swapcaps
