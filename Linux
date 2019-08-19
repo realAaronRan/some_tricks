@@ -1,4 +1,4 @@
 ## to swap caps lock and ctrl in ubuntu 16.04
 setxkbmap -option ctrl:swapcaps
 ## to autostart the remap between ctrl and caps, write down commend into ~/.profile
-/usr/bin/setxkbmap -option ctrl:swapcaps
+/usr/bin/setxkbmap -option ctrl:nocaps
